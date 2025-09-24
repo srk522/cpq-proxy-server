@@ -8,32 +8,7 @@
 		<ref_type><![CDATA[Model]]></ref_type>
 		<ref_var_name>
 			allEquipment:projectAllocationDetails:projectAllocationProductLine:projectAllocationModel</ref_var_name>
-		<name>
-			<en><![CDATA[Constraint Allocation Percentage]]></en>
-			<de><![CDATA[]]></de>
-			<fr><![CDATA[]]></fr>
-			<es><![CDATA[]]></es>
-			<it><![CDATA[]]></it>
-			<ar_SA><![CDATA[]]></ar_SA>
-			<zh_CN><![CDATA[]]></zh_CN>
-			<zh_TW><![CDATA[]]></zh_TW>
-			<cs_CZ><![CDATA[]]></cs_CZ>
-			<da_DK><![CDATA[]]></da_DK>
-			<nl_NL><![CDATA[]]></nl_NL>
-			<fi_FI><![CDATA[]]></fi_FI>
-			<fr_CA><![CDATA[]]></fr_CA>
-			<iw_IL><![CDATA[]]></iw_IL>
-			<hu_HU><![CDATA[]]></hu_HU>
-			<ja_JP><![CDATA[]]></ja_JP>
-			<ko_KR><![CDATA[]]></ko_KR>
-			<pl_PL><![CDATA[]]></pl_PL>
-			<pt_BR><![CDATA[]]></pt_BR>
-			<ru_RU><![CDATA[]]></ru_RU>
-			<sv_SE><![CDATA[]]></sv_SE>
-			<no_NO><![CDATA[]]></no_NO>
-			<ro_RO><![CDATA[]]></ro_RO>
-			<tr_TR><![CDATA[]]></tr_TR>
-		</name>
+		
 		<variable_name><![CDATA[constraintAllocationPercentage]]></variable_name>
 		<description>
 			<en><![CDATA[]]></en>
